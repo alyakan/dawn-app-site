@@ -1,6 +1,6 @@
 # Privacy Policy — Dawn: Prayer Times & Qibla
 
-*Last updated: 26 August 2026*
+*Last updated: 31 August 2026*
 
 Dawn is built to be private by design. This policy describes exactly what the app does with data.
 
@@ -15,13 +15,17 @@ Dawn is built to be private by design. This policy describes exactly what the ap
 - **Settings** (calendar preference, notification choices, chosen city): stored on your device.
 - **Reminders**: prayer notifications are scheduled locally on your device.
 
-## Optional ads
+## Optional tips
 
-Dawn shows **no ads** in normal use. There is a single, clearly-labeled, completely optional "Support Development" button; only if you tap it, a rewarded video ad is loaded and shown by **Google AdMob**. When you choose to watch an ad, Google may process device information (such as IP address and device identifiers) to serve and measure the ad, as described in [Google's privacy policy](https://policies.google.com/privacy) and [how Google uses information from partner apps](https://policies.google.com/technologies/partner-sites). If you never tap the button, the ads SDK stays dormant and no ad requests are made.
+Dawn shows **no ads** and contains no advertising or analytics SDKs whatsoever.
+
+There is one optional "Support Development" tip jar offering a few small one-off amounts. Purchases run entirely through Apple's In-App Purchase system: Apple takes the payment and we never see your name, your payment details, or your Apple account. Tipping unlocks nothing — every feature is free either way.
+
+So the app can say thank you, it asks Apple for your own purchase history for these tips, on your device, to tell whether you've tipped recently. That check happens locally and is not reported to us or anyone else.
 
 ## Children
 
-Dawn is not directed at children, and its optional ad feature is intended for adult users.
+Dawn is not directed at children. It contains no ads, no third-party tracking, and no user-generated content.
 
 ## Data deletion
 

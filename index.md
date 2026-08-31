@@ -15,7 +15,7 @@ Dawn automatically picks the calculation convention most common in your region. 
 Yes — choose any city manually. Location, when granted, is used only on your device to compute times and never leaves it.
 
 **Is anything paid or locked?**
-No. All features are free, with no forced ads. If you'd like to support development, there's an optional ad you can choose to watch in Settings.
+No. Every feature is free, and there are no ads of any kind. If you'd like to support development there's an optional tip jar — "Support Development" on the Today screen — with a few one-off amounts. Tipping unlocks nothing; it's a thank-you, not a purchase.
 
 ## Privacy
 
