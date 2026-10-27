@@ -1,6 +1,6 @@
 # Privacy Policy — Dawn: Prayer Times & Qibla
 
-*Last updated: 31 August 2026*
+*Last updated: 27 October 2026*
 
 Dawn is built to be private by design. This policy describes exactly what the app does with data.
 
@@ -12,8 +12,17 @@ Dawn is built to be private by design. This policy describes exactly what the ap
 
 - **Location**: if you grant location access, your coordinates are used *on your device* to compute prayer times and the qibla direction. Your location is never transmitted to us or to any server by the app. You can decline location access entirely and pick a city manually instead.
 - **Prayer tracking and tasbih counts**: stored on your device and, if you're signed into iCloud, synced through *your private iCloud database* (Apple CloudKit) so your iPhone and Apple Watch stay in step. This data is accessible only to your Apple account — not to us.
+- **Hifz progress** (your memorization plan, what you know, and your place in Recite): stored on your device and, if you're signed into iCloud, synced through *your private iCloud storage* so your devices stay in step. Not accessible to us.
 - **Settings** (calendar preference, notification choices, chosen city): stored on your device.
 - **Reminders**: prayer notifications are scheduled locally on your device.
+
+## Microphone and speech recognition (optional)
+
+The Hifz recitation check and Recite mode can listen while you recite from memory and show which words they heard. They use the microphone and Apple's speech recognition, only while you have started listening, and only if you allow microphone and speech recognition access.
+
+- **Where recognition happens:** iOS does not recognize Arabic on the device by default. Unless you turn on the on-device option in Hifz settings, what you recite is sent to **Apple** to be turned into text, and Dawn asks you before the first time. Apple handles it under [Apple's privacy policy](https://www.apple.com/legal/privacy/). The on-device option, when your iPhone supports it, keeps the audio on your device.
+- **What we do with it:** nothing. Dawn does not record or keep your audio or the recognized text, and we never receive either. They are used only to mark the words you recited, on your screen.
+- **You can decline** microphone and speech access and use Recite with taps instead, or leave the check turned off.
 
 ## Optional tips
 
